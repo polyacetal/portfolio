@@ -1,4 +1,13 @@
 baseURL = 'http://portfolio.udhi.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme='hugo-theme-stack'
+languageCode = 'ja_jp'
+title = 'My Portfolio'
+theme = 'hugo-theme-stack'
+
+defaultContentLanguage = 'jp'
+
+[params]
+  [params.sidebar]
+    [params.sidebar]
+      enabled = true
+      local = true
+      src = 'img/avatar.png'
