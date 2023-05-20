@@ -3,7 +3,7 @@ languageCode = 'en_us'
 title = 'My Portfolio'
 theme = 'hugo-theme-stack'
 
-defaultContentLanguage = 'jp'
+defaultContentLanguage = 'en'
 
 [params]
   [params.footer]
