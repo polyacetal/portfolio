@@ -1,5 +1,5 @@
 baseURL = 'http://portfolio.udhi.net/'
-languageCode = 'ja_jp'
+languageCode = 'en_us'
 title = 'My Portfolio'
 theme = 'hugo-theme-stack'
 
