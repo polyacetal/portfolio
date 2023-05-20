@@ -20,9 +20,11 @@ defaultContentLanguage = 'jp'
     default = 'auto'
 
 [menu]
-  main = [
-    {identifier = 'github', name = 'GitHub', url = 'https://github.com/polyacetal', icon = 'brand-github'}
-  ]
-  socialIcons = [
-    {name = 'github', url = 'https://github.com/polyacetal'}
+  main = []
+  social = [
+    { identifier = 'github',
+      name = 'GitHub',
+      url = 'https://github.com/polyacetal',
+      [menu.params]
+      icon = 'brand-github'}
   ]
