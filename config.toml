@@ -18,11 +18,8 @@ defaultContentLanguage = 'jp'
   [params.colorScheme]
     toggle = true
     default = 'auto'
-  socialIcons = [
-    { name = 'github', url = 'https://github.com/polyacetal' }
-    ]
 
 [menu]
-  main = [
+  socialIcons = [
     { identifier = 'github', name = 'GitHub', url = 'https://github.com/polyacetal', icon = 'brand-github'}
   ]
