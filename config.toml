@@ -7,7 +7,7 @@ defaultContentLanguage = 'jp'
 
 [params]
   [params.sidebar]
-    [params.sidebar]
+    [params.sidebar.avatar]
       enabled = true
       local = true
       src = 'img/avatar.png'
