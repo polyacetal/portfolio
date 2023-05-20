@@ -12,7 +12,7 @@ defaultContentLanguage = 'jp'
   [params.sidebar]
     [params.sidebar.avatar]
       enabled = true
-      local = true
+      local = false
       src = 'https://github.com/polyacetal.png'
       
   [params.colorScheme]
